@@ -2,7 +2,7 @@
 # iceBot v1.0
 # Coded by: @sadnessvibewithbadeffect (Don't change!)
 # Github: https://github.com/yezz123
-# Instagram: @Yezz123
+# Instagram: @froggy__19
 
 trap 'printf "\n";stop;exit 1' 2
 
@@ -49,7 +49,7 @@ printf "\e[1;92m | |/ __/ _ \  _ \ / _ \| __| \e[0m\n"
 printf "\e[1;92m | | (_|  __/ |_) | (_) | |_  \e[0m\n"
 printf "\e[1;92m |_|\___\___|____/ \___/ \__| \e[0mv1.1\n"
 printf "\n"
-printf "\e[1;77m\e[45m        Instagram bot by @sadnessvibewithbadeffect       \e[0m\n"
+printf "\e[1;77m\e[45m        Instagram bot by @Froggy__19      \e[0m\n"
 printf "\n"                                    
 
 }
